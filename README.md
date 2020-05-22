@@ -1,4 +1,4 @@
-# PROJECT-CAPSTONE: US I94 Immigration Insights
+# US I94 Immigration Insights
 
 Utsav Shah | utsavshah507@gmail.com
 
